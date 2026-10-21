@@ -1,0 +1,1 @@
+# sets are mutable, no duplicate, unordered cannot acces through index values, semi hetrogeneous
